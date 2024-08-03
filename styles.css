@@ -1,0 +1,46 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recycle-image {
+    
+    align-self: center;
+    height: 200px;
+}
+
+h1 {
+    text-align:center;
+    background-color: black;
+    color: white;
+    border-radius: 40%;
+}
+
+h2 {
+    text-align:center;
+    background-color: black;
+    color: white;
+    border-radius: 40%;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+}
+.side-by-side{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+body{
+    background-color: rgb(179, 241, 159);
+}
+
+
+li{
+    text-align: center;
+    list-style-type: none;
+}
+iframe{
+    align-self: center;
+}
